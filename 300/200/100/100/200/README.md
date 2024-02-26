@@ -8,4 +8,8 @@ First, think about how you want your moving illustration to look, then create a 
 
 See [README.md](./100/README.md)
 
+## 200 - Creating a New Canvas
+
+See [README.md](./200/README.md)
+
 MORE ...

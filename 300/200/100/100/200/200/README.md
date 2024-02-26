@@ -16,9 +16,9 @@ In PRO or EX, start by selecting [Illustration] for [Use of work].
 
 (2) Enter "595" for [Width], "842" for [Height] and [72] for [Resolution].
 
-(3)Turn on [Create moving illustration] .
+(3) urn on [Create moving illustration] .
 
-(4)Enter "4" for [Number of cels] and set [Frame rate] to [8fps].
+(4) Enter "4" for [Number of cels] and set [Frame rate] to [8fps].
 
 [Memo]
 

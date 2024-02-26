@@ -6,10 +6,10 @@ Ink and color your drafts. If a cel requires multiple layers, you can create a l
 
 ## 100 - Creating a Layer Folder
 
-See [REAME.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Inking
 
-
+See [README.md](./200/README.md)
 
 MORE 

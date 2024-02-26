@@ -95,3 +95,7 @@ Click [Play/Stop] on the [Timeline] palette to play your moving illustration. Mo
 ![image](https://github.com/vanHeemstraSystems/clip-studio-paint/assets/1499433/1ed3b58a-0ac4-49af-82e4-c365a28d91b6)
 
 Your moving illustration is now complete.
+
+## 300 - Adding Camera Work
+
+See [README.md](./300/README.md)

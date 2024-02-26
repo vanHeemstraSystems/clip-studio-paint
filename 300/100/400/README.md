@@ -12,7 +12,7 @@ To use, you will need to log in to Clip Studio by selecting [Clip Studio Paint] 
 
 Tap [Manage works] in Clip Studio to display the management screen.
 
-
+![image](https://github.com/vanHeemstraSystems/clip-studio-paint/assets/1499433/6dd0c0b3-d895-4e53-b223-dc9252852221)
 
 Tablet version
 

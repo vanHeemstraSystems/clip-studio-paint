@@ -22,10 +22,10 @@ In PRO or EX, start by selecting [Illustration] for [Use of work].
 
 [Memo]
 
-·If you are using DEBUT or PRO, the maximum number you can set for [Number of cels] is 24. It is not possible to set a larger number.
+- If you are using DEBUT or PRO, the maximum number you can set for [Number of cels] is 24. It is not possible to set a larger number.
 
-·Some web services may have an image size or file size limit. We recommend checking this beforehand and setting [Width] and [Height] accordingly.
+- Some web services may have an image size or file size limit. We recommend checking this beforehand and setting [Width] and [Height] accordingly.
 
-·The size of images to be posted online is usually specified in px (pixels).
+- The size of images to be posted online is usually specified in px (pixels).
 
-·We recommend setting a resolution of 72dpi - 144dpi if you will post your moving illustration on a web service such as social media.
+- We recommend setting a resolution of 72dpi - 144dpi if you will post your moving illustration on a web service such as social media.

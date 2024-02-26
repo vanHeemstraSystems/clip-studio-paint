@@ -1,5 +1,7 @@
 # 400 - Sharing Works with Clip Studio Cloud Service (Our Choice)
 
+See also [How to Use the Cloud Service](https://tips.clip-studio.com/en-us/series/73).
+
 Compatible with Clip Studio Paint Ver. 1.9.14
 
 Learn how to share Clip Studio Paint work files between different devices using the Clip Studio Cloud Service.

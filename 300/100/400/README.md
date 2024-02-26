@@ -28,6 +28,6 @@ For the iPad/iPhone versions, works saved in the Clip Studio app appear in [Work
 Artwork stored outside of Clip Studio will not be displayed on the [Manage works] screen.
 
 
-## 100 - Edit works created on other devices
+## 100 - Edit Works Created on Other Devices
 
 See [README.md](./100/README.md)

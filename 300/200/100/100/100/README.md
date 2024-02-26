@@ -10,4 +10,4 @@ Below are the steps you need to follow to create a moving illustration.
 
 3. [Editing the Timeline](../500/README.md): Play your moving illustration.
 
-4. [Export](): Export your completed moving ilustration as a file such as an animated GIF or movie. Exported files can be posted on social media and other websites.
+4. [Export](../700/README.md): Export your completed moving ilustration as a file such as an animated GIF or movie. Exported files can be posted on social media and other websites.

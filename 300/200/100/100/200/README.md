@@ -24,4 +24,8 @@ See [README.md](./400/README.md)
 
 See [README.md](./500/README.md)
 
+## 600 - Check the Motion
+
+See [README.md](./600/README.md)
+
 MORE ...

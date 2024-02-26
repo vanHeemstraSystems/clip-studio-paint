@@ -6,7 +6,7 @@ In this section, learn how to share work between a PC and an iPad or iPhone usin
 
 **NOTE**: The [following article](https://tips.clip-studio.com/en-us/articles/558) explains how to use Clip Studio's Cloud Service.
 
-
+![image](https://github.com/vanHeemstraSystems/clip-studio-paint/assets/1499433/c3110f1a-8744-4d87-a972-5caa2072d272)
 
 Displaying storage services in the Files app
 

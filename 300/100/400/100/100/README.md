@@ -1,4 +1,4 @@
-# 100 - Uploading Works to Other Devices
+# 100 - Uploading Works to Clip Studio Cloud
 
 See [README.md](./100/README.md)
 

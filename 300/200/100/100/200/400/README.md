@@ -10,9 +10,9 @@ You are now ready to start creating your moving illustration. Check that the scr
 
 [Memo]
 
-·The animation folder is a folder used to manage animation cels. Layers stored in the animation folder are handled as cels to set the motion of the animation.
+- The animation folder is a folder used to manage animation cels. Layers stored in the animation folder are handled as cels to set the motion of the animation.
 
-·Specify cels on the [Timeline] palette to make the images in your animation move.
+- Specify cels on the [Timeline] palette to make the images in your animation move.
 
 **Tips:** Tablet and Smartphone Specific Operations
 

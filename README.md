@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+clip-studio-paint
+# Clip Studio Paint
 
-Based on "ABC" at https://www.abc.com/
+Based on "[Tablet version] Learn the basics of CLIP STUDIO PAINT" at https://tips.clip-studio.com/en-us/series/12
 
 ## 100 - Introduction
 

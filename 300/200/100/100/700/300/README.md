@@ -11,3 +11,4 @@ This section explains how to export your finished work as an image sequence.
 2. The [Image sequence export settings] dialog box is displayed. Check the settings and click [OK].
 
    
+MORE, see https://tips.clip-studio.com/en-us/articles/531

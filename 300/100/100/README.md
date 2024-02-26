@@ -1,4 +1,4 @@
-# 100 - Sharing with iCloud
+# 100 - Sharing Works with iCloud
 
 Compatible with Clip Studio Paint Ver. 1.9.14
 

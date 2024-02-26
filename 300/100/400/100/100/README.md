@@ -1,4 +1,4 @@
-# 100 - Uploading
+# 100 - Uploading Works to Other Devices
 
 See [README.md](./100/README.md)
 
@@ -14,7 +14,7 @@ For works with multiple pages, it displays the thumbnails of the folders contain
 
 You can upload the whole work displayed in the thumbnail to Clip Studio cloud. You can not upload only certain pages in the work.
 
-IMAGE HERE
+![image](https://github.com/vanHeemstraSystems/clip-studio-paint/assets/1499433/39cdf35d-47b0-4125-a0ef-f957a55d2f23)
 
 Tap the [Cloud] tab to check that your work has been uploaded successfully.
 

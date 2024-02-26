@@ -12,6 +12,6 @@ See [README.md](./200/README.md)
 
 See [README.md](./300/README.md)
 
-## 400 - Sharing Works with Clip Studio Cloud Service
+## 400 - Sharing Works with Clip Studio Cloud Service (Our Choice)
 
 See [README.md](./400/README.md)

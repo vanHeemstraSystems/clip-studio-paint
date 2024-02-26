@@ -1,4 +1,4 @@
-# 400 - Sharing Works with Clip Studio Cloud Service
+# 400 - Sharing Works with Clip Studio Cloud Service (Our Choice)
 
 Compatible with Clip Studio Paint Ver. 1.9.14
 

@@ -16,6 +16,7 @@ Tap [Manage works] in Clip Studio to display the management screen.
 
 Tablet version
 
+![image](https://github.com/vanHeemstraSystems/clip-studio-paint/assets/1499433/a77c59d4-ae93-4872-8c82-545bde4e27bf)
 
 Smartphone version
 

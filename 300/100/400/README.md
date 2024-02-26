@@ -26,3 +26,8 @@ Smartphone version
 For the iPad/iPhone versions, works saved in the Clip Studio app appear in [Work Management] and can be shared with other devices such as PCs via the Clip Studio Cloud Service.
 
 Artwork stored outside of Clip Studio will not be displayed on the [Manage works] screen.
+
+
+## 100 - Edit works created on other devices
+
+See [README.md](./100/README.md)
